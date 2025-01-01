@@ -164,22 +164,22 @@ def show_section(section):
 
 col1, col2, col3, col4, col5, col6, col7 = st.columns([2,13,13,13,13,13,2])
 with col2:
-    if st.button("Click For Python", type="primary"):
+    if st.button("Click For Python"):
         show_section("Python")
 
 with col3:
-    if st.button("Click For Web Development", type='primary'):
+    if st.button("Click For Web Development"):
         show_section("Web Development")
 
 with col4:
-    if st.button("Click For Cybersecurity", type='primary'):
+    if st.button("Click For Cybersecurity"):
         show_section("Cybersecurity")
 
 with col5:
-    if st.button("Click For G Suite/MS Suite", type='primary'):
+    if st.button("Click For G Suite/MS Suite"):
         show_section("Suites")
 with col6:
-    if st.button("Click For Canva", type='primary'):
+    if st.button("Click For Canva"):
         show_section("Canva")
 
 
