@@ -2,12 +2,12 @@ This is a personal resume website showcasing my skills, accomplishments, and pro
 
 Features:
 Dynamic navigation for different sections (Python, Web Development, Cybersecurity, etc.).
-Clean and responsive UI, styled with CSS.
+Clean and responsive UI, styled with CSS and HTMK.
 Interactive components such as buttons for easy navigation.
 Detailed descriptions of achievements and projects.
 
 Project Structure:
 1. landing.py (Python File)
-This file contains the main logic for the website. It handles navigation, dynamic rendering of content, and user interactions.
+This file contains the main logic for the website. It handles navigation, dynamic rendering of content, and user interactions. It uses HTML to render text.
 2. style.css (CSS File)
 This file defines the visual styling of the website, ensuring a clean and professional look.
