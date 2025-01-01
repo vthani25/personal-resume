@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_js_eval import streamlit_js_eval
 import os
 
 # Set page configuration
@@ -19,7 +18,6 @@ spline_html = """
 <spline-viewer url="https://prod.spline.design/WUCjPC1jNmp79Mf6/scene.splinecode"></spline-viewer>
 """
 
-page_width = streamlit_js_eval(js_expressions='screen.width', key='SCR')
 st.components.v1.html(spline_html, height=750)
 
 # Add a fade-out effect
