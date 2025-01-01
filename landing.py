@@ -248,8 +248,11 @@ elif st.session_state.active_section == "Web Development":
                     This experience taught me the importance of understanding client needs and tailoring solutions to their goals.
                 </p>
                 <p style="margin-bottom: 0;">
-                    I also built this asteroid dashboard website at the Ascend hackathon, a 3-day hackathon in LA with talented girls from all around the world! Check it out here: <a href="https://astroid-dashboard.streamlit.app" target="_blank">
-                </p>
+    I also built an asteroid dashboard website during the Ascend Hackathon, a 3-day event in LA that brought together talented girls from around the world! 
+    Check it out here: 
+    <a href="https://astroid-dashboard.streamlit.app" target="_blank" style="color: #4A90E2; text-decoration: underline;">
+        AstroAscend
+    </a>
 </div>
             """
         , unsafe_allow_html=True)
