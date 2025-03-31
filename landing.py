@@ -27,7 +27,7 @@ st.markdown('<div class="fade-out"></div>', unsafe_allow_html=True)
 st.markdown(
     """
     <div class="profile-section">
-        <img src="https://media.licdn.com/dms/image/v2/D4E03AQHpkcCWW015MA/profile-displayphoto-shrink_400_400/B4EZQYxBK1GYAk-/0/1735582290987?e=1741219200&v=beta&t=WXdydMH38nGWTj1VmoJep16dEDtSdysLmxTz2ZhDNoM" alt="Profile Picture">
+        <img src="https://media.licdn.com/dms/image/v2/D4E03AQHpkcCWW015MA/profile-displayphoto-shrink_400_400/B4EZQYxBK1GYAk-/0/1735582290987?e=1749081600&v=beta&t=Lu2FL3fN6oK7gub-yRT8A5yphM2MkU5RBEjTlX1uJf8" alt="Profile Picture">
         <div class="text">
             <h2>About Me</h2>
             <p>
